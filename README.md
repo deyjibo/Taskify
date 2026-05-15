@@ -1,4 +1,4 @@
-# Todo App with MongoDB
+# Todo App with MongoDB - Taskify
 
 A simple and efficient **Todo application** built with **Node.js**, **Express**, and **MongoDB** to manage your daily tasks. Perform CRUD operations and store your tasks persistently in MongoDB.
 
@@ -13,7 +13,7 @@ A simple and efficient **Todo application** built with **Node.js**, **Express**,
 ## Live Demo
 
 👉Check out the live app on Netlify:  
-[tasko-portal.netlify.app](https://tasko-portal.netlify.app)
+[Taskify](https://tasko-portal.netlify.app)
 
 
 ## Features
