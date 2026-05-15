@@ -10,6 +10,7 @@ A simple and efficient **Todo application** built with **Node.js**, **Express**,
     <img src="https://img.shields.io/badge/GitHub-Repo-black?style=for-the-badge&logo=github" alt="GitHub Repo" />
   </a>
 </p> 
+
 ## Live Demo
 
 👉Check out the live app on Netlify:  [Taskify](https://tasko-portal.netlify.app)
