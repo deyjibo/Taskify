@@ -24,7 +24,6 @@ A simple and efficient **Todo application** built with **Node.js**, **Express**,
 
 ## Achievements
 
-- Completed **3456 points** in task management efficiency  
 - Successfully implemented CRUD operations for todos  
 - Fully integrated with MongoDB for persistent storage  
 
